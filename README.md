@@ -1,5 +1,8 @@
 # Telco-Churn-ML
 
-This repository contains a complete machine learning workflow for predicting customer churn using the Telco Customer Churn dataset. The project includes data preprocessing, EDA, model training, evaluation, and explainability.
+Predicting churn using the Telco Customer Churn dataset (Kaggle): 
 
-The goal is to build accurate classification models and compare their performance using metrics such as accuracy, confusion matrix, precision/recall, and F1-score.
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+Includes data cleaning, preprocessing, and model comparison (Decision Tree vs Neural Network).
+Run the Jupyter notebook after placing the dataset in a data/ folder.
